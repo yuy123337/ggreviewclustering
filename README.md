@@ -2,7 +2,7 @@
 # Simiarity and Clustering
 This repository contains code for analyzing restaurant reviews using TF-IDF, K-means clustering, and LDA topic modeling. The project aims to analyze reviews of Chinese and Japanese restaurants to uncover insights about consumer preferences, sentiment, and cultural differences. The focus is on food-related themes, service quality, and how these factors influence customer perceptions of ethnic cuisines.
 
-Elbow method was used to determine the optimal number of clusters (k) for k-means. This repository contains two Jupyter notebook with some repetitive contents due to several trials, one has appliced Latent Dirichlet Allocation (LDA) to topic modeling, extracting key themes from restaurant reviews for both Chinese and Japanese cuisines.
+Elbow method was used to determine the optimal number of clusters (k) for k-means. This repository contains two Jupyter notebook with some repetitive contents due to several trials, one has appliced Latent Dirichlet Allocation (LDA) to topic modeling, extracting key themes from restaurant reviews for both Chinese and Japanese cuisines. The PDF file is also in this repository
 
 # Data
 The review dataset contains customer reviews for Chinese and Japanese restaurants, including text data and metadata like review scores, cuisine type, and other relevant features. The dataset is large and includes millions of records.
