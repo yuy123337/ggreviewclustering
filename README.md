@@ -12,9 +12,10 @@ Due to the large size of the data, it could not be uploaded directly to this rep
 
 # For tf-idf
 TF-IDF seems to be a bit meaningless for my data as it 
-The methodology presented by Gabriela Nathania H. et al. focuses on summarizing hotel reviews using two main approaches: extractive summarization based on TF-IDF scores and feature extraction through Adjective-Noun Pairing. The research aims to create a concise representation of hotel reviews to help users quickly understand the sentiment and key aspects of the hotel experience. 
+The methodology presented by Gabriela Nathania H. et al. focuses on summarizing hotel reviews using two main approaches: extractive summarization based on TF-IDF scores and feature extraction through Adjective-Noun Pairing, which I could try but failed. 
 
 The clustering approach could be used to group reviews into similar topics or sentiments. 
 
+Future thoughts:
 Adjective-Noun Pairing: Extracting adjectives and nouns can help identify the key features and their qualities that customers comment on. For example, pairing "delicious" with "ramen" or "slow" with "service" could help in understanding specific aspects of customer satisfaction or dissatisfaction?
 
